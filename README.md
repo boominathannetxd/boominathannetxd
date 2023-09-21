@@ -17,4 +17,4 @@
 |     17| Angular      |    18| Vue         |    19| Postgres        |    20|    Flutter     |
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eboominathan&layout=compact)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=boominathannetxd)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boominathannetxd&layout=compact)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=boominathannetxd)
